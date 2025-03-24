@@ -1,7 +1,7 @@
 {
   "name": "werchter-kaart",
   "version": "1.0.0",
-  "homepage": "https://meestersam.github.io/WerchterKaart",
+  "homepage": "https://meestersam.github.io/Oupeye",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

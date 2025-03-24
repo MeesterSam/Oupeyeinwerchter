@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/WerchterKaart/static/css/main.222d9b7c.css",
-    "main.js": "/WerchterKaart/static/js/main.41313f35.js",
-    "index.html": "/WerchterKaart/index.html",
-    "main.222d9b7c.css.map": "/WerchterKaart/static/css/main.222d9b7c.css.map",
-    "main.41313f35.js.map": "/WerchterKaart/static/js/main.41313f35.js.map"
+    "main.css": "/Oupeye/static/css/main.222d9b7c.css",
+    "main.js": "/Oupeye/static/js/main.41313f35.js",
+    "index.html": "/Oupeye/index.html",
+    "main.222d9b7c.css.map": "/Oupeye/static/css/main.222d9b7c.css.map",
+    "main.41313f35.js.map": "/Oupeye/static/js/main.41313f35.js.map"
   },
   "entrypoints": [
     "static/css/main.222d9b7c.css",
