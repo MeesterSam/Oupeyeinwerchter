@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/WerchterKaart/static/css/main.222d9b7c.css",
-    "main.js": "/WerchterKaart/static/js/main.39989511.js",
+    "main.js": "/WerchterKaart/static/js/main.41313f35.js",
     "index.html": "/WerchterKaart/index.html",
     "main.222d9b7c.css.map": "/WerchterKaart/static/css/main.222d9b7c.css.map",
-    "main.39989511.js.map": "/WerchterKaart/static/js/main.39989511.js.map"
+    "main.41313f35.js.map": "/WerchterKaart/static/js/main.41313f35.js.map"
   },
   "entrypoints": [
     "static/css/main.222d9b7c.css",
-    "static/js/main.39989511.js"
+    "static/js/main.41313f35.js"
   ]
 }

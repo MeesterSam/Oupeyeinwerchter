@@ -127,7 +127,8 @@ function App() {
               Adres: adres || '',
               wie: wie || '',
               Latitude: latitude,
-              Longitude: longitude
+              Longitude: longitude,
+              Video: row.Video || row.video || null
             };
 
             console.log(`Verwerkte locatie ${naam}:`, location);
@@ -248,12 +249,12 @@ function App() {
             )}
             <video 
               controls 
-              autoPlay
+              src={selectedVideo}
               onError={handleVideoError}
               onLoadedData={handleVideoLoaded}
+              style={{ width: '100%', maxHeight: '70vh' }}
             >
-              <source src={selectedVideo} type="video/mp4" />
-              Uw browser ondersteunt geen video weergave.
+              Je browser ondersteunt geen video weergave.
             </video>
           </div>
         )}
