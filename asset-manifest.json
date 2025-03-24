@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WerchterKaart/static/css/main.222d9b7c.css",
+    "main.js": "/WerchterKaart/static/js/main.39989511.js",
+    "index.html": "/WerchterKaart/index.html",
+    "main.222d9b7c.css.map": "/WerchterKaart/static/css/main.222d9b7c.css.map",
+    "main.39989511.js.map": "/WerchterKaart/static/js/main.39989511.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.222d9b7c.css",
+    "static/js/main.39989511.js"
+  ]
+}
